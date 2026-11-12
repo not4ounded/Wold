@@ -1,0 +1,19 @@
+{
+    "name": "Game.Player",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4009c56a1a173d54ca51d9c92a8ad4a1",
+        "GUID:959bc2bc7ffee564b9365c1fd115ee72",
+        "GUID:479137357584d684e991fc41f8a4c591",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
